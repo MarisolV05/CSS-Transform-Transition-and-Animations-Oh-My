@@ -1,3 +1,15 @@
-main {
 
-}
+body  {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  main {
+    background-color: mediumaquamarine;
+    height: auto;
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    transform: skewY(6.07rad);
+  
+  }
+  

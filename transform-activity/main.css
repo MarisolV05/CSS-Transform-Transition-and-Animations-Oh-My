@@ -6,10 +6,12 @@ body  {
 main {
   background-color: mediumaquamarine;
   height: 90vh;
-  width: 100vh;
+  width: auto;
   margin: auto;
   display: flex;
   align-items: center;
+  transform: skewY(20deg);
+
 }
 
 main > div {
@@ -17,3 +19,5 @@ main > div {
   margin: auto;
   padding: 10%;
 }
+
+
